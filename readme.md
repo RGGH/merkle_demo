@@ -1,4 +1,4 @@
-```markdown
+
 # Merkle Tree in Rust
 
 This project demonstrates how to build a Merkle tree in Rust. Merkle trees are widely used in blockchain and cryptographic systems to enable efficient and secure verification of large datasets.
